@@ -45,5 +45,8 @@ If you find this repository helpful, feel free to cite our paper:
       title={Question Translation Training for Better Multilingual Reasoning}, 
       author={Wenhao Zhu and Shujian Huang and Fei Yuan and Shuaijie She and Jiajun Chen and Alexandra Birch},
       year={2024},
+      eprint={2401.07817},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
